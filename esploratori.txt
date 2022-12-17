@@ -1,0 +1,70 @@
+Cristoforo Colombo
+1451
+1506
+Isole Bahamas
+1492
+1493
+Spagna
+Ferdinando Magellano
+1480
+1521
+Giro del mondo
+1522
+1522
+Spagna
+Giovanni Caboto
+1420
+1498
+Canada
+1497
+1498
+Inghilterra
+Vasco De Gama
+1469
+1524
+India
+1498
+1499
+Portogallo
+James Cook
+1728
+1779
+Australia
+1769
+1771
+Inghilterra
+Henry Hudson 
+1550
+1611
+Passaggio Nord-Ovest
+0
+1612
+Inghilterra
+John Franklin
+1786
+1847
+Passaggio Nord-Ovest
+0
+1847
+Inghilterra
+Robert McClure
+1807
+1873
+Passaggio Nord-Ovest
+0
+1879
+Inghilterra
+Roald Amundsen
+1850
+1932
+Polo Sud
+1911
+1912
+Norvegia
+Robert Scott
+1845
+1912
+Polo Sud
+1911
+1912
+Inghilterra
